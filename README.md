@@ -70,7 +70,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/krishanu009/krishanu009/output/snake.svg" alt="Snake animation" />
+(https://raw.githubusercontent.com/krishanu009/krishanu009/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
